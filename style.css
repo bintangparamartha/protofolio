@@ -1,0 +1,10 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 2rem;
+  background-color: rgb(232, 242, 46);
+}
+#galleri {
+  background-color: rgb(232, 242, 46);
+}
